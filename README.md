@@ -13,7 +13,7 @@ It's not really new... but finally fully working wiht KiCAD and svg2Shenzhen
 
 ## KiCAD dedicated footprints
 
-![](https://github.com/8BitMixtape/MixtapeNEO-3000/raw/master/photos/Kicad_screenshot.png)
+![](https://github.com/8BitMixtape/MixtapeNEO-3000/raw/master/photos/Kicad_screenshot_2.png)
 
 Stuff to fix/check:
 * position of battery holders

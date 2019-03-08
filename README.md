@@ -13,7 +13,7 @@ It's not really new... but finally fully working wiht KiCAD and svg2Shenzhen
 
 ## KiCAD dedicated footprints
 
-![](https://github.com/8BitMixtape/MixtapeNEO-3000/raw/master/photos/Kicad_screenshot.png)
+![](https://github.com/8BitMixtape/MixtapeNEO-3000/raw/master/photos/Kicad_screenshot_2.png)
 
 Stuff to fix/check:
 * position of battery holders
@@ -25,3 +25,7 @@ Stuff to fix/check:
 ## creative design layer in Inkscape with svg2shenzhen extension
 
 ![](https://github.com/8BitMixtape/MixtapeNEO-3000/raw/master/photos/inkscape_screenshot.png)
+
+Empty canvas in inkscape for creating all kind of creative PCB designs, edge.cut and drill layer taken from earlier editions. Use svg2shenzhen extension to export the footpring .kicad_mod to the dedicated footprint library.
+
+https://github.com/badgeek/svg2shenzhen
